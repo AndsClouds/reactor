@@ -1,0 +1,14 @@
+.boton {
+    background-color: #444;
+    border-radius: 10px;
+    font-family: 'Indie Flower', cursive;
+    padding: 14px 30px;
+    border: none;
+    color: #fff;
+    margin: 32px 0px;
+    cursor: pointer;
+}
+
+.boton :hover{
+    color: rgb(0, 255, 106);
+}

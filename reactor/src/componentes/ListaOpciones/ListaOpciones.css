@@ -1,0 +1,17 @@
+.lista-opciones {
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Indie Flower', cursive;
+    margin-bottom: 8px;
+}
+
+.lista-opciones select{
+    width: 106%;
+    background-color: #FFF;
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.06);
+    padding: 24px;
+    border: none;
+    font-family: 'Indie Flower', cursive;
+    font-size: 16px;
+}
