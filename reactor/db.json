@@ -1,0 +1,18 @@
+{
+  "cards": [
+    {
+      "nombre": "Soy un personaje",
+      "rango": "5",
+      "foto": "https://cards.scryfall.io/art_crop/front/5/0/50983204-80af-4ebb-8117-6a44a1f0b260.jpg?1645989130",
+      "grupo": "Anime",
+      "id": 1
+    },
+    {
+      "nombre": "soy nuevo",
+      "rango": "en la bd",
+      "foto": "jejeje",
+      "grupo": "Series",
+      "id": 2
+    }
+  ]
+}

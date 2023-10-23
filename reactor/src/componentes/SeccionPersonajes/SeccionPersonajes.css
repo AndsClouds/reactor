@@ -1,0 +1,14 @@
+.seccionPersonajes{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.seccionPersonajes h2{
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    display: block;
+    font-weight: 1000;
+    margin-bottom: 8px;
+}
